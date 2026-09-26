@@ -1,0 +1,50 @@
+[
+    {
+        "student_id": "101",
+        "name": "Arun",
+        "department": "ECE",
+        "year": "2029",
+        "email": "arun@example.com",
+        "marks": "85.0"
+    },
+    {
+        "student_id": "102",
+        "name": "Meena",
+        "department": "CSE",
+        "year": "2028",
+        "email": "meena@example.com",
+        "marks": "91.0"
+    },
+    {
+        "student_id": "103",
+        "name": "Rahul",
+        "department": "EEE",
+        "year": "2029",
+        "email": "rahul@example.com",
+        "marks": 80.0
+    },
+    {
+        "student_id": "104",
+        "name": "Priya",
+        "department": "IT",
+        "year": "2027",
+        "email": "priya@example.com",
+        "marks": "88.5"
+    },
+    {
+        "student_id": "105",
+        "name": "Karthik",
+        "department": "ECE",
+        "year": "2028",
+        "email": "karthik@example.com",
+        "marks": "92.0"
+    },
+    {
+        "student_id": "106",
+        "name": "Preethi",
+        "department": "EEE",
+        "year": "2029",
+        "email": "preethi25@gmail.com",
+        "marks": "95.0"
+    }
+]
